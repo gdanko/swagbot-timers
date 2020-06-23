@@ -1,0 +1,9 @@
+setup.py
+swagbot/timers_database.py
+swagbot/data/timers.db
+swagbot/plugins/timers.py
+swagbot_timers.egg-info/PKG-INFO
+swagbot_timers.egg-info/SOURCES.txt
+swagbot_timers.egg-info/dependency_links.txt
+swagbot_timers.egg-info/requires.txt
+swagbot_timers.egg-info/top_level.txt
